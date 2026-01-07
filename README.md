@@ -83,7 +83,7 @@ To make **job-ready education accessible to every learner** and help institution
 
 If you are looking to **upskill talent, modernize campus training, or hire skilled professionals**, we would be happy to connect.
 
-📧 contact@inacademic.com  
+📧 hr@inacademic.com  
 🌐 https://inacademic.com/
 
 ---
