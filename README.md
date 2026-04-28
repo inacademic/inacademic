@@ -1,10 +1,12 @@
 # 🟦 Inacademic
 
-**Inacademic is a technology-enabled education and training company focused on making high-quality, job-ready learning accessible to everyone.**  
+**Inacademic, an initiative by Tiiron Technologies, is designed to bridge the gap between academic learning and industry expectations.**
+
+The aim is simple — to help students move beyond theory and understand how real development works.
 
 We work with students, graduates, professionals, and academic institutions to deliver **industry-aligned training, mentorship, and career enablement services.**
 
-With more than **15 years of experience** in professional training and skill development, we aim to bridge the gap between **education and employability** through practical learning and real-world exposure.
+With more than **3 years of experience** in professional training and skill development, we aim to bridge the gap between **education and employability** through practical learning and real-world exposure.
 
 ---
 
@@ -31,7 +33,7 @@ With more than **15 years of experience** in professional training and skill dev
 
 ## 🏆 Why Learners & Institutions Choose Us
 
-- ✔️ 15+ years of training experience  
+- ✔️ 3+ years of training experience  
 - ✔️ Strong industry–academia network  
 - ✔️ Job-focused curriculum and projects  
 - ✔️ Corporate-style training delivery  
