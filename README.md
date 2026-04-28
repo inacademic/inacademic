@@ -63,7 +63,7 @@ To make **job-ready education accessible to every learner** and help institution
 
 | Field | Details |
 |------|--------|
-| **Company Name** | Inacademic |
+| **Company Name** | Tiiron Technologies Pvt Ltd |
 | **Industry** | Education & Training Services |
 | **Company Size** | 2–10 Employees |
 | **Founded** | 2024 |
